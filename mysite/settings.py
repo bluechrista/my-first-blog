@@ -25,7 +25,7 @@ SECRET_KEY = '%720%_n=s4gnkmkt4v*6oujb32&hjm89hcig$a4u%j=e0k)_49'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bluechrista.pythonanywhere.com']
 
 
 # Application definition
